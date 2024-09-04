@@ -1,0 +1,1 @@
+The lab [[Synthetics]] are sent by [[Elizabeth Thorpe]] in an effort to control the situation. She wants the infection to spread to further study the effects of [[Azurium Zephyrite]] on living tissue. If all goes well, she believes she can either advance within the company or weaponize the nanites for her own machinations.

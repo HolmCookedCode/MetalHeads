@@ -1,0 +1,3 @@
+[[Dimitri Bastet]] is interested when he learns what is going on in [[Cherryville]]. He has no intentions of letting the actual government get involved. Dimitri wants to burn everything to the ground and will send in his [[Black Ops]] to do so. He can start fresh in a controlled environment.
+
+Before truly knowing what's going on, [[The Davises]] are sent in as a standard cover up procedure when the alarm goes off.

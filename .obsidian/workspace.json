@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Fronts/Hybrid Hive Mind.md",
+                "file": "Wiki/Factions/EverTree.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Fronts/Hybrid Hive Mind.md",
+                "file": "Wiki/Factions/EverTree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Fronts/Hybrid Hive Mind.md",
+                "file": "Wiki/Factions/EverTree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Fronts/Hybrid Hive Mind.md"
+                "file": "Wiki/Factions/EverTree.md"
               }
             }
           }
@@ -161,20 +161,26 @@
   },
   "active": "69693bcd7d374cc6",
   "lastOpenFiles": [
+    "Wiki/Factions/NeuroSynth.md",
+    "Wiki/Factions/Police.md",
+    "Wiki/Factions/The Union.md",
+    "Wiki/Factions/The Wood Watchers.md",
     "Episodes/1 - Welcome to Cherryville.md",
+    "Wiki/Fronts/Union Agenda.md",
+    "Wiki/Threats/Hybrids/Emergent.md",
+    "Wiki/Threats/Hybrids/Cyber Soldier.md",
+    "Wiki/Fronts/NeuroSynth Agenda.md",
     "Wiki/Fronts/Hybrid Hive Mind.md",
+    "Wiki/Fronts/Elizabeth's Agenda.md",
     "Wiki/Fronts",
     "Wiki/NPCs/David Whittaker.md",
-    "Wiki/Factions/The Union.md",
     "Wiki/Threats/Mundane/Militia.md",
     "Wiki/Threats/Mundane/Union Thugs.md",
     "Wiki/Threats/Mundane/Police Backup.md",
     "Wiki/Threats/NeuroSynth/Black Ops.md",
-    "Wiki/Threats/Hybrids/Cyber Soldier.md",
     "Wiki/Locations/Abandoned Factory.md",
     "Wiki/Factions/Blue Rock Manufacturing.md",
     "Wiki/Factions/EverTree.md",
-    "Wiki/Factions/NeuroSynth.md",
     "Wiki/NPCs/George Chapman.md",
     "Wiki/NPCs/Ross Chapman.md",
     "Wiki/PCs/The Brain.md",
@@ -182,14 +188,8 @@
     "Wiki/PCs/The Criminal.md",
     "Wiki/PCs/The Sleuth.md",
     "Wiki/Threats/Hybrids/Trio of Cyber Soldiers.md",
-    "Wiki/Events/The Response.md",
-    "Wiki/Events/Elizabeth's Experiment.md",
-    "Wiki/NPCs/Grant Phillips.md",
     "Episodes",
     "Wiki",
-    "Wiki/NPCs/Dimitri Bastet.md",
-    "Wiki/NPCs/Elizabeth Thorpe.md",
-    "Wiki/NPCs/Crazy Eddy.md",
     "Wiki/Threats/Mundane",
     "Wiki/Threats/NeuroSynth",
     "Wiki/Threats/Hybrids",

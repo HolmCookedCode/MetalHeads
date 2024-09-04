@@ -22,7 +22,7 @@ These two scenes play back and forth likely resulting in combat. George and Gran
 #### The Police Station (Investigation)
 The police station is ransacked. If the player's do not have weapons. They are able to loot pistols from here. Possibly a single shotgun. If the player's do have weapons from character creation, they are able to get pistol or shotgun mags here.
 #### The Town Center
-Here is where the festival will gather tomorrow. There's a good chance to find townsfolk here.
+Here is where the festival will gather tomorrow. There's a good chance to find townsfolk here. There is a gathering of [[Union Thugs]] here. There are a bunch of pickup trucks and a fire. If the party mingles with them they find out the
 #### The Trailer Park
 This is where Crazy Eddy lives. If someone has an idea of what's going on, it would probably be him.
 #### Joe's Tavern

@@ -1,0 +1,1 @@
+[[David Whittaker]] knows something strange is going on in [[Cherryville]]. He doesn't think corporate. He thinks alien. He isn't entirely wrong. David sees his people as downtrodden. He sees [[The Union]] as a bit of a family. David wants to be like the Vulture. Harvest their technology. Use it to empower his people.

@@ -1,1 +1,1 @@
-The clusters of [[Azurium Zephyrite]]. Trying to build beacons similar to creatures from Dead Space.
+The clusters of [[Azurium Zephyrite]]. The first goal is to protect the hive. They need to infect people until they have enough [[Emergent]]s and [[Cyber Soldier]]s to form a protective force. Then, they intend to build. If they can build a tower, they can communicate.
