@@ -1,0 +1,3 @@
+The head researcher at the [[Underground Research Facility]]. She is the villain of this story. The facility is about to be shut down. She releases the [[Infected Dog]] to spread into the town and force a response from [[NeuroSynth]].
+
+Elizabeth sees herself on a mission. She knows she has to work with [[Dimitri Bastet]]. She can't have him knowing she interfered before she has a chance to prove the effectiveness of the formula. [[The Davises]] are summoned as a generic warning. A follow up from cameras and automated systems. [[Dimitri Bastet]] does not know she intervened as of yet.

@@ -1,0 +1,1 @@
+A town of many secrets. Geographically based on Cornish, Maine. Head to google maps to get an idea of the downtown area.

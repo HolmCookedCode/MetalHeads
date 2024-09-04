@@ -1,0 +1,1 @@
+Out back there is a graveyard. Long ago it was a children's graveyard. Now, it's just a cemetary. Town's folk call it the "old children's graveyard".

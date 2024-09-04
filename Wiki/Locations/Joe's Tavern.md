@@ -1,0 +1,1 @@
+Owned by [[Big Joey]]. [[Crazy Eddy]] is convinced the special is made from people.

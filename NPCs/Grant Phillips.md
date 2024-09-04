@@ -1,1 +1,0 @@
-A member of the Cherryville [[Police]].

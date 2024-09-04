@@ -1,1 +1,0 @@
-A town of many secrets.

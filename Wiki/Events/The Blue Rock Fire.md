@@ -1,0 +1,3 @@
+The public understands the fire to be a chemical accident that left the factory to be inoperable. [[Noah Quinn]] torched the factory after tests with the synthetic material derived from the meteorite lead to machines that could think independently.
+
+[[Dimitri Bastet]] was Noah's partner at the time. He saw a great promise in the material. He was able to salvage the formula and went on to found [[NeuroSynth]]. Here he experimented with

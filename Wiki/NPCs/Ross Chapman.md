@@ -1,0 +1,1 @@
+Brother of [[George Chapman]]. Ross has been bit by the [[Infected Dog]]. He is unconscious at the start of the story. Only to immediately turn into an [[Emergent]] on investigation.

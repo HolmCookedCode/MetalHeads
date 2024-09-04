@@ -13,38 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cherryville.md",
+                "file": "Wiki/NPCs/Grant Phillips.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd62f4b0d0454c52",
+            "id": "69693bcd7d374cc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Grant Phillips.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "790287e0f78a755a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Cherryville.md",
+                "file": "Wiki/Fronts/Hybrid Hive Mind.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cherryville.md",
+                "file": "Wiki/Fronts/Hybrid Hive Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cherryville.md",
+                "file": "Wiki/Fronts/Hybrid Hive Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cherryville.md"
+                "file": "Wiki/Fronts/Hybrid Hive Mind.md"
               }
             }
           }
@@ -171,17 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "790287e0f78a755a",
+  "active": "69693bcd7d374cc6",
   "lastOpenFiles": [
-    "Locations/Abandoned Factory.md",
-    "NPCs/Grant Phillips.md",
-    "Factions/Police.md",
-    "Factions",
-    "NPCs/Mayor.md",
-    "PCs",
-    "Welcome.md",
-    "NPCs",
-    "Locations",
-    "Locations/Cherryville.md"
+    "Episodes/1 - Welcome to Cherryville.md",
+    "Wiki/Fronts/Hybrid Hive Mind.md",
+    "Wiki/Fronts",
+    "Wiki/NPCs/David Whittaker.md",
+    "Wiki/Factions/The Union.md",
+    "Wiki/Threats/Mundane/Militia.md",
+    "Wiki/Threats/Mundane/Union Thugs.md",
+    "Wiki/Threats/Mundane/Police Backup.md",
+    "Wiki/Threats/NeuroSynth/Black Ops.md",
+    "Wiki/Threats/Hybrids/Cyber Soldier.md",
+    "Wiki/Locations/Abandoned Factory.md",
+    "Wiki/Factions/Blue Rock Manufacturing.md",
+    "Wiki/Factions/EverTree.md",
+    "Wiki/Factions/NeuroSynth.md",
+    "Wiki/NPCs/George Chapman.md",
+    "Wiki/NPCs/Ross Chapman.md",
+    "Wiki/PCs/The Brain.md",
+    "Wiki/PCs/The Face.md",
+    "Wiki/PCs/The Criminal.md",
+    "Wiki/PCs/The Sleuth.md",
+    "Wiki/Threats/Hybrids/Trio of Cyber Soldiers.md",
+    "Wiki/Events/The Response.md",
+    "Wiki/Events/Elizabeth's Experiment.md",
+    "Wiki/NPCs/Grant Phillips.md",
+    "Episodes",
+    "Wiki",
+    "Wiki/NPCs/Dimitri Bastet.md",
+    "Wiki/NPCs/Elizabeth Thorpe.md",
+    "Wiki/NPCs/Crazy Eddy.md",
+    "Wiki/Threats/Mundane",
+    "Wiki/Threats/NeuroSynth",
+    "Wiki/Threats/Hybrids",
+    "Wiki/Events",
+    "Wiki/Threats",
+    "Wiki/Items",
+    "Wiki/Factions"
   ]
 }

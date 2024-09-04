@@ -1,0 +1,1 @@
+The founder of [[NeuroSynth]]. While [[Noah Quinn]] created [[Azurium Zephyrite]]. Dimitri perfected it.

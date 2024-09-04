@@ -1,0 +1,1 @@
+There are many meteorites, but for this story there is one important one. In 1991, [[The Meteor Crash]] occurred. This meteor contained a host of alien organisms. They appeared as a blue material that could be easily mistaken for being part of the meteor itself. While utterly alien, the organisms could most closely be compared to nanomachines of fiction.

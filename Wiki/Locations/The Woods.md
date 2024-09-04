@@ -1,0 +1,1 @@
+The woods surrounding [[Cherryville]]. Eerie sounds can be heard at night. The [[Cherrywood]] contain [[Azurium Zephyrite]]. These are colonies of organisms. These colonies do communicate. This is what causes the sounds. Their roots spread throughout the surrounding area.
