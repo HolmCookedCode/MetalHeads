@@ -1,1 +1,0 @@
-Played by Oliver. Friends with [[The Brain]].

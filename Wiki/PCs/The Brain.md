@@ -1,1 +1,0 @@
-Played by Brandon. Friends with [[The Sleuth]]. Gets drugs from [[The Criminal]].

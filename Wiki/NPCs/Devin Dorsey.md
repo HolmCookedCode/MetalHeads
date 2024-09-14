@@ -1,0 +1,1 @@
+Local representative for [[EverTree]]. He's in good shape with graying hair and glasses. Picture a "corpo" in a Cyberpunk setting and you would get Devin.

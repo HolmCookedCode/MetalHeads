@@ -1,1 +1,0 @@
-Played by Kirsten. Daughter of [[Saul ___]]. Divorced from [[The Sleuth]].
