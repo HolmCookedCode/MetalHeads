@@ -12,18 +12,9 @@ NeuroSynth corporate is made aware of the dog being released. They don't know it
 ## Ice Berg
 ### Depth 0
 #### The Doctor is In (Combat)
-The party is split in two. [[The Brain - Good Samaritan]] is at his office joined by [[The Agent]]. [[George Chapman]] comes pounding on the door panicked. His brother [[Ross Chapman]] is in the car passed out. He's been bit by some dog. The bite looks pretty bad. When the party manages to get Ross inside, his wounds are healed. His skin is pale, but he has these extremely dark veins that seem to fade. Ross opens his eyes- they now appear to be filled with blood as he lashes out. The party must survive an [[Emergent]].
+The party is split in two. [[Richard Dochter]] is at his office joined by [[Guy David Zeezed]]. [[George Chapman]] comes pounding on the door panicked. His brother [[Ross Chapman]] is in the car passed out. He's been bit by some dog. The bite looks pretty bad. When the party manages to get Ross inside, his wounds are healed. His skin is pale, but he has these extremely dark veins that seem to fade. Ross opens his eyes- they now appear to be filled with blood as he lashes out. The party must survive an [[Emergent]].
 #### The Check In (Combat)
-[[The Face - Hot Stuff]] and [[The Sleuth - Genius Bruiser]] are at [[The Furniture Shop]]. [[Grant Phillips]] comes by to see if [[Crazy Eddy]] has been around harassing her. There's a festival planned for tomorrow. Eddy likes to stir trouble and Grant wants to prevent that this year. There is a crash from the back of the shop. Here the party sees the [[Infected Dog]]. Wounded, bloody, and snarling. It's going to pounce.
+[[Zara Sadabris]] and [[Rodrigo Delmar]] are at [[The Furniture Shop]]. [[Grant Phillips]] comes by to see if [[Crazy Eddy]] has been around harassing her. There's a festival planned for tomorrow. Eddy likes to stir trouble and Grant wants to prevent that this year. There is a crash from the back of the shop. Here the party sees the [[Infected Dog]]. Wounded, bloody, and snarling. It's going to pounce.
 
 These two scenes play back and forth likely resulting in combat. George and Grant try to guide the parties suggesting they reconvene at the police station. The cops should know what to do.
 
-### Depth 1
-#### The Police Station (Investigation)
-The police station is ransacked. If the player's do not have weapons. They are able to loot pistols from here. Possibly a single shotgun. If the player's do have weapons from character creation, they are able to get pistol or shotgun mags here.
-#### The Town Center
-Here is where the festival will gather tomorrow. There's a good chance to find townsfolk here. There is a gathering of [[Union Thugs]] here. There are a bunch of pickup trucks and a fire. There have been disappearances recently. A lot of accidents. They believe [[Devin Dorsey]], the local EverTree representative knows something. There going to drive to his house and fuck him up. Even if they do have to deal with his [[Private Security]].
-#### The Trailer Park
-This is where Crazy Eddy lives. If someone has an idea of what's going on, it would probably be him.
-#### Joe's Tavern
-Joe would be willing to hear the party out. He's part of [[The Wood Watchers]]. He might have theories about what's going on and be able to combat whatever the thing is.

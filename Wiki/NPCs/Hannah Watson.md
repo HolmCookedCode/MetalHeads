@@ -1,0 +1,1 @@
+Editor for [[As Wood As It Gets Magazine]]. The one appearing in this story is actually one of [[Elizabeth Thorpe]]'s synthetics.

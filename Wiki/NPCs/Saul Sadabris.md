@@ -1,4 +1,4 @@
-The mayor of [[Cherryville]]. Father of [[The Face - Hot Stuff]].
+The mayor of [[Cherryville]]. Father of [[Zara Sadabris]].
 
 Self sacrificing mayor. Envies people for those who don't have to sacrifice so much, but he feels compelled to none the less. He likes to paint, but he isn't very good. He doesn't get too much time to practic.er
 

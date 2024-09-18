@@ -1,0 +1,1 @@
+Waitress at [[Joe's Tavern]]. Youthful slender redhead. Pretty.

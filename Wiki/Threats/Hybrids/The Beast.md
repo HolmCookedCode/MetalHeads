@@ -1,8 +1,8 @@
 *Oh, there is something VERY wrong with that dog.*
-## Predator Aliens - Template 1
-OXOOXOOOO
+## Predator Aliens - Template 2
+OXOXOX
 
-**Attack:** Critical
+**Attack:** 2 Critical
 **Defense:** Critical
 ## Feats
 **Titan:** Heroes cannot deal more than 1 Grit per every attack to the Enemy.

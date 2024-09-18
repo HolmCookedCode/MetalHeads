@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/NPCs/Grant Phillips.md",
+                "file": "Wiki/NPCs/Brooke Bauer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/NPCs/Grant Phillips.md",
+                "file": "Wiki/NPCs/Brooke Bauer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/NPCs/Grant Phillips.md",
+                "file": "Wiki/NPCs/Brooke Bauer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/NPCs/Grant Phillips.md"
+                "file": "Wiki/NPCs/Brooke Bauer.md"
               }
             }
           }
@@ -148,33 +148,34 @@
   },
   "active": "91828f88a363fa15",
   "lastOpenFiles": [
+    "Wiki/NPCs/Kimmy Green.md",
+    "Wiki/NPCs/Brooke Bauer.md",
+    "Wiki/NPCs/Devin Dorsey.md",
+    "Wiki/NPCs/Elizabeth Thorpe.md",
+    "Wiki/NPCs/George Chapman.md",
+    "Wiki/NPCs/Bethany Richards.md",
+    "Wiki/Items/The Third Party.md",
+    "Episodes/2 - Government Intervention.md",
+    "Wiki/Ideas",
+    "Wiki/NPCs/Crazy Eddy.md",
+    "Wiki/NPCs/David Whittaker.md",
+    "Wiki/Threats/NeuroSynth/The Davises.md",
+    "Wiki/NPCs/Sean Davis.md",
+    "Wiki/Events/The Meteor Crash.md",
+    "Wiki/Events/The Blue Rock Fire.md",
+    "Wiki/Events/The Response.md",
+    "Wiki/Threats/NeuroSynth/Black Ops.md",
+    "Wiki/Threats/NeuroSynth/Synthetics.md",
+    "Wiki/Threats/Hybrids/Cyber Soldier.md",
+    "Wiki/Threats/Hybrids/Emergent.md",
+    "Wiki/Threats/Hybrids/Infected Dog.md",
     "Wiki/Threats/Hybrids/The Beast.md",
     "Wiki/Threats/Hybrids/Trio of Cyber Soldiers.md",
-    "Wiki/Threats/Hybrids/Infected Dog.md",
-    "Wiki/Threats/Hybrids/Emergent.md",
-    "Wiki/Locations/Cherryville.md",
-    "Wiki/PCs/The Sleuth - Genius Bruiser.md",
-    "Wiki/PCs/The Agent.md",
-    "Wiki/PCs/The Face - Hot Stuff.md",
-    "Wiki/PCs/The Brain - Good Samaritan.md",
-    "Wiki/NPCs/Saul Sadabris.md",
-    "Wiki/Items/As Wood As It Gets Magazine.md",
-    "Episodes/1 - Welcome to Cherryville.md",
-    "Wiki/Threats/Mundane/Private Security.md",
-    "Wiki/Factions/EverTree.md",
-    "Wiki/NPCs/Devin Dorsey.md",
-    "Wiki/Factions/NeuroSynth.md",
-    "Wiki/Factions/Police.md",
-    "Wiki/Factions/The Union.md",
-    "Wiki/Factions/The Wood Watchers.md",
-    "Wiki/Fronts/Union Agenda.md",
-    "Wiki/Threats/Hybrids/Cyber Soldier.md",
-    "Wiki/Fronts/NeuroSynth Agenda.md",
-    "Wiki/Fronts/Hybrid Hive Mind.md",
-    "Wiki/Fronts/Elizabeth's Agenda.md",
-    "Wiki/Fronts",
-    "Wiki/NPCs/David Whittaker.md",
+    "Wiki/Threats/Mundane/Derelicts.md",
     "Wiki/Threats/Mundane/Militia.md",
+    "Wiki/Threats/Mundane/Police Backup.md",
+    "Wiki/Threats/Mundane/Union Thugs.md",
+    "Wiki/Fronts",
     "Episodes",
     "Wiki",
     "Wiki/Threats/Mundane",
@@ -182,7 +183,6 @@
     "Wiki/Threats/Hybrids",
     "Wiki/Events",
     "Wiki/Threats",
-    "Wiki/Items",
-    "Wiki/Factions"
+    "Wiki/Items"
   ]
 }

@@ -1,0 +1,1 @@
+I don't know where else to stick this, but I kind of like the idea that there are three separate groups at play. The hybrids are an experiment by [[Elizabeth Thorpe]]. [[The Davises]] are sent by [[Dimitri Bastet]]. The [[Synthetics]] are more interesting if they aren't associated with either of the other 2. They certainly are not government. Think about that at work.
