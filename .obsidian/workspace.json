@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/NPCs/Brooke Bauer.md",
+                "file": "Episodes/2 - Government Intervention.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "5119bc34af02d1b3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/NPCs/Brooke Bauer.md",
+                "file": "Episodes/2 - Government Intervention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/NPCs/Brooke Bauer.md",
+                "file": "Episodes/2 - Government Intervention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/NPCs/Brooke Bauer.md"
+                "file": "Episodes/2 - Government Intervention.md"
               }
             }
           }
@@ -148,14 +148,17 @@
   },
   "active": "91828f88a363fa15",
   "lastOpenFiles": [
-    "Wiki/NPCs/Kimmy Green.md",
+    "Wiki/Threats/NeuroSynth/Synthetics.md",
+    "Episodes/2 - Government Intervention.md",
+    "Wiki/Fronts/The Synthetic Agenda.md",
+    "Wiki/Fronts/Union Agenda.md",
     "Wiki/NPCs/Brooke Bauer.md",
+    "Wiki/NPCs/Kimmy Green.md",
     "Wiki/NPCs/Devin Dorsey.md",
     "Wiki/NPCs/Elizabeth Thorpe.md",
     "Wiki/NPCs/George Chapman.md",
     "Wiki/NPCs/Bethany Richards.md",
     "Wiki/Items/The Third Party.md",
-    "Episodes/2 - Government Intervention.md",
     "Wiki/Ideas",
     "Wiki/NPCs/Crazy Eddy.md",
     "Wiki/NPCs/David Whittaker.md",
@@ -165,7 +168,6 @@
     "Wiki/Events/The Blue Rock Fire.md",
     "Wiki/Events/The Response.md",
     "Wiki/Threats/NeuroSynth/Black Ops.md",
-    "Wiki/Threats/NeuroSynth/Synthetics.md",
     "Wiki/Threats/Hybrids/Cyber Soldier.md",
     "Wiki/Threats/Hybrids/Emergent.md",
     "Wiki/Threats/Hybrids/Infected Dog.md",
@@ -173,8 +175,6 @@
     "Wiki/Threats/Hybrids/Trio of Cyber Soldiers.md",
     "Wiki/Threats/Mundane/Derelicts.md",
     "Wiki/Threats/Mundane/Militia.md",
-    "Wiki/Threats/Mundane/Police Backup.md",
-    "Wiki/Threats/Mundane/Union Thugs.md",
     "Wiki/Fronts",
     "Episodes",
     "Wiki",
