@@ -1,0 +1,3 @@
+NeuroSynth is the Umbrella corporation equivalent here. Founded by [[Dimitri Bastet]] based upon work by [[Noah Quinn]]. [[Elizabeth Thorpe]] runs the [[Underground Research Facility]] beneath [[Cherryville]].
+
+NeuroSynth has agents at their disposal. They have a whole Mr. & Mrs. Smith thing going on. They will often get agents to pose as couples to appear more trusting. This isn't always the case, but is true for small towns like [[Cherryville]]. Two teams were dispatched to [[Cherryville]] when a breach was reported from the [[Underground Research Facility]]. The first was [[The Davises]]. The second team was the 

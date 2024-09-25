@@ -8,4 +8,4 @@ Player: Kirsten
 - Daughter of [[Saul Sadabris]]. 
 - Divorced from [[Rodrigo Delmar]].
 ## Trivia
-Ambition is to get featured in [[As Wood As It Gets Magazine]].
+- Ambition is to get featured in [[As Wood As It Gets Magazine]].

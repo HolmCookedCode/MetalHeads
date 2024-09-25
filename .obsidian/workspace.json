@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episodes/2 - Government Intervention.md",
+                "file": "Wiki/Threats/Hybrids/The Old Children.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodes/2 - Government Intervention.md",
+                "file": "Wiki/Threats/Hybrids/The Old Children.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Episodes/2 - Government Intervention.md",
+                "file": "Wiki/Threats/Hybrids/The Old Children.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Episodes/2 - Government Intervention.md"
+                "file": "Wiki/Threats/Hybrids/The Old Children.md"
               }
             }
           }
@@ -148,33 +148,34 @@
   },
   "active": "91828f88a363fa15",
   "lastOpenFiles": [
-    "Wiki/Threats/NeuroSynth/Synthetics.md",
-    "Episodes/2 - Government Intervention.md",
-    "Wiki/Fronts/The Synthetic Agenda.md",
-    "Wiki/Fronts/Union Agenda.md",
-    "Wiki/NPCs/Brooke Bauer.md",
-    "Wiki/NPCs/Kimmy Green.md",
-    "Wiki/NPCs/Devin Dorsey.md",
-    "Wiki/NPCs/Elizabeth Thorpe.md",
-    "Wiki/NPCs/George Chapman.md",
-    "Wiki/NPCs/Bethany Richards.md",
-    "Wiki/Items/The Third Party.md",
-    "Wiki/Ideas",
-    "Wiki/NPCs/Crazy Eddy.md",
-    "Wiki/NPCs/David Whittaker.md",
-    "Wiki/Threats/NeuroSynth/The Davises.md",
-    "Wiki/NPCs/Sean Davis.md",
-    "Wiki/Events/The Meteor Crash.md",
-    "Wiki/Events/The Blue Rock Fire.md",
-    "Wiki/Events/The Response.md",
-    "Wiki/Threats/NeuroSynth/Black Ops.md",
+    "Wiki/Threats/Hybrids/The Beast.md",
+    "Wiki/Threats/Hybrids/Infected Dog.md",
     "Wiki/Threats/Hybrids/Cyber Soldier.md",
     "Wiki/Threats/Hybrids/Emergent.md",
-    "Wiki/Threats/Hybrids/Infected Dog.md",
-    "Wiki/Threats/Hybrids/The Beast.md",
+    "Wiki/Threats/Synthetics/Replicant.md",
+    "Wiki/Threats/Synthetics/Drones.md",
+    "Wiki/Threats/NeuroSynth/Black Ops.md",
+    "Wiki/Threats/NeuroSynth/The Davises.md",
+    "Episodes/3 - Wonders of the Woods.md",
+    "Wiki/Threats/Hybrids/The Old Children.md",
     "Wiki/Threats/Hybrids/Trio of Cyber Soldiers.md",
+    "Wiki/Fronts/Hybrid Hive Mind.md",
+    "Wiki/Fronts/The Synthetic Agenda.md",
+    "Wiki/Locations/Chicken Bits.md",
+    "Wiki/NPCs/Miranda Davis.md",
+    "Wiki/PCs/Guy David Zeezed.md",
+    "Wiki/PCs/Richard Dochter.md",
+    "Wiki/PCs/Rodrigo Delmar.md",
+    "Wiki/PCs/Zara Sadabris.md",
+    "Wiki/Threats/Mundane/Private Security.md",
+    "Wiki/Threats/Mundane/Police Backup.md",
     "Wiki/Threats/Mundane/Derelicts.md",
     "Wiki/Threats/Mundane/Militia.md",
+    "Wiki/Locations/The Clinic.md",
+    "Wiki/Factions/Police.md",
+    "Wiki/Locations/Joey's Tavern.md",
+    "Wiki/Threats/Synthetics",
+    "Wiki/Ideas",
     "Wiki/Fronts",
     "Episodes",
     "Wiki",
@@ -182,7 +183,6 @@
     "Wiki/Threats/NeuroSynth",
     "Wiki/Threats/Hybrids",
     "Wiki/Events",
-    "Wiki/Threats",
-    "Wiki/Items"
+    "Wiki/Threats"
   ]
 }

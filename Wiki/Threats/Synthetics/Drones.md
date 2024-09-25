@@ -1,4 +1,4 @@
-*These are the soldiers of NeuroSynth meant to pose as people. They might look like cops. They might be soldiers. They might look like your friendly neighborhood worker. They are none of the above.*
+*They look like people, but they aren't. There eerie smiles and their clear blood are dead giveaways.*
 ## Bad Guys - Template 2
 OOXOOOXOO
 

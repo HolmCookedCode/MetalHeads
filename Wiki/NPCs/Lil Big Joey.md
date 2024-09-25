@@ -1,4 +1,4 @@
-Known as Lil' Big Joey. Owner of [[Joe's Tavern]]. Real name is Joe Hooper.
+Known as Lil' Big Joey. Owner of [[Joey's Tavern]]. Real name is Joe Hooper.
 
 The tavern isn't doing well. He believes on helping those he can over running a successful business. He's probably given out too many meals. Joey is a giant of a man that just wants to be loved. This is what gives him the name lil big Joey.
 

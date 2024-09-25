@@ -16,7 +16,7 @@ The police station is ransacked. If the player's do not have weapons. They are a
 - There is evidence of a fire fight.
 - There are reports of missing cats & dogs (referenced by [[Grant Phillips]] in the intro). There are a dozen reports of missing people. If questioned, Grant has been looking into the missing animals but is fully unaware of missing people.
 - File detailing the vagrants at the [[Abandoned Factory]]. Note of "Potential for special investigation"?
-- [[Crazy Eddy]] and [[Big Joey]] are also on the list.
+- [[Crazy Eddy]] and [[Lil Big Joey]] are also on the list.
 #### The Trailer Park
 This is where Crazy Eddy lives. Eddy has formed a small [[Militia]] and barricade of several trailers. His group is immediately distrustful of anyone approaching. He's already encountered synthetics and fully believes the party to be synthetics.
 #### Joe's Tavern

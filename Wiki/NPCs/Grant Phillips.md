@@ -7,7 +7,7 @@ Grant has a yearning to travel. It's at odds with the story he's built for himse
 The thing about Grant is earning the affection he never had growing up. He can never fake things. He can't take shortcuts. He can't cheat. Everything needs to be by the books even if against insurmountable odds.
 # Support
 Help: Police Officer
-Flaw: Overconfident
+Flaw: Signed up for small town life
 
 Brawn: 4
 Nerves: 4

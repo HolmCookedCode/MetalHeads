@@ -1,1 +1,1 @@
-The clusters of [[Azurium Zephyrite]]. The first goal is to protect the hive. They need to infect people until they have enough [[Emergent]]s and [[Cyber Soldier]]s to form a protective force. Then, they intend to build. If they can build a tower, they can communicate.
+The clusters of [[Azurium Zephyrite]]. The first goal is to protect the hive. They need to infect people until they have enough [[Emergent]]s and [[Cyber Soldier]]s to form a protective force. Then, they intend to build. If they can build a tower, they can communicate offworld.
