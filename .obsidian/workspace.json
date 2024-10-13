@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Threats/Hybrids/The Old Children.md",
+                "file": "Episodes/3 - Wonders of the Woods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Threats/Hybrids/The Old Children.md",
+                "file": "Episodes/3 - Wonders of the Woods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Threats/Hybrids/The Old Children.md",
+                "file": "Episodes/3 - Wonders of the Woods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Threats/Hybrids/The Old Children.md"
+                "file": "Episodes/3 - Wonders of the Woods.md"
               }
             }
           }
@@ -149,15 +149,17 @@
   "active": "91828f88a363fa15",
   "lastOpenFiles": [
     "Wiki/Threats/Hybrids/The Beast.md",
+    "Wiki/Threats/Hybrids/The Old Children.md",
+    "Episodes/3 - Wonders of the Woods.md",
+    "Wiki/Threats/Synthetics/Replicant.md",
+    "Episodes/1 - Welcome to Cherryville.md",
+    "Wiki/Fronts/Elizabeth's Agenda.md",
     "Wiki/Threats/Hybrids/Infected Dog.md",
     "Wiki/Threats/Hybrids/Cyber Soldier.md",
     "Wiki/Threats/Hybrids/Emergent.md",
-    "Wiki/Threats/Synthetics/Replicant.md",
     "Wiki/Threats/Synthetics/Drones.md",
     "Wiki/Threats/NeuroSynth/Black Ops.md",
     "Wiki/Threats/NeuroSynth/The Davises.md",
-    "Episodes/3 - Wonders of the Woods.md",
-    "Wiki/Threats/Hybrids/The Old Children.md",
     "Wiki/Threats/Hybrids/Trio of Cyber Soldiers.md",
     "Wiki/Fronts/Hybrid Hive Mind.md",
     "Wiki/Fronts/The Synthetic Agenda.md",
@@ -172,8 +174,6 @@
     "Wiki/Threats/Mundane/Derelicts.md",
     "Wiki/Threats/Mundane/Militia.md",
     "Wiki/Locations/The Clinic.md",
-    "Wiki/Factions/Police.md",
-    "Wiki/Locations/Joey's Tavern.md",
     "Wiki/Threats/Synthetics",
     "Wiki/Ideas",
     "Wiki/Fronts",
