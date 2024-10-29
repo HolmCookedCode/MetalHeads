@@ -8,9 +8,3 @@ At Saul's residence, another team was dispatched. This would be another couple c
 The real Saul was captured by the Synthetics before the events of the story. He is being held at the [[Abandoned Factory]] which serves as a base of operations for the Synthetics.
 
 The roots of [[Cherrywood]] contain [[Azurium Zephyrite]]. They burrowed into the bodies of the old children's graveyard behind [[The Clinic]]. The bodies are moving into the woods to combine genetic material with the hivemind.
-
-## Trivia
-Katie Smith, regular at Zara's. Always a hassle.
-Brian Waters, divorce lawyer. Rich asshole. Cousin twice removed from John Waters.
-Frank Whig, police chief
-Judas Churchill, the preacher

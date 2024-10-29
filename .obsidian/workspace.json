@@ -13,13 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episodes/3 - Wonders of the Woods.md",
+                "file": "Episodes/4 - Revelations.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "4 - Revelations"
+            }
+          },
+          {
+            "id": "c8076523dc8417e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Episodes/4 - Revelations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - Revelations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodes/3 - Wonders of the Woods.md",
+                "file": "Episodes/4 - Revelations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4 - Revelations"
             }
           },
           {
@@ -102,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Episodes/3 - Wonders of the Woods.md",
+                "file": "Episodes/4 - Revelations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4 - Revelations"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Episodes/3 - Wonders of the Woods.md"
-              }
+                "file": "Episodes/4 - Revelations.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4 - Revelations"
             }
           }
         ]
@@ -146,34 +177,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91828f88a363fa15",
+  "active": "c8076523dc8417e1",
   "lastOpenFiles": [
-    "Wiki/Threats/Hybrids/The Beast.md",
-    "Wiki/Threats/Hybrids/The Old Children.md",
-    "Episodes/3 - Wonders of the Woods.md",
-    "Wiki/Threats/Synthetics/Replicant.md",
     "Episodes/1 - Welcome to Cherryville.md",
-    "Wiki/Fronts/Elizabeth's Agenda.md",
-    "Wiki/Threats/Hybrids/Infected Dog.md",
-    "Wiki/Threats/Hybrids/Cyber Soldier.md",
-    "Wiki/Threats/Hybrids/Emergent.md",
-    "Wiki/Threats/Synthetics/Drones.md",
+    "Episodes/2 - Homecoming.md",
+    "Episodes/4 - Revelations.md",
+    "Episodes/3 - Wonders of the Woods.md",
+    "Wiki/NPCs/Frank Whig.md",
+    "Wiki/Threats/Hybrids/The Old Children.md",
+    "Wiki/Threats/Synthetics/Replicant.md",
     "Wiki/Threats/NeuroSynth/Black Ops.md",
     "Wiki/Threats/NeuroSynth/The Davises.md",
-    "Wiki/Threats/Hybrids/Trio of Cyber Soldiers.md",
-    "Wiki/Fronts/Hybrid Hive Mind.md",
-    "Wiki/Fronts/The Synthetic Agenda.md",
-    "Wiki/Locations/Chicken Bits.md",
-    "Wiki/NPCs/Miranda Davis.md",
-    "Wiki/PCs/Guy David Zeezed.md",
-    "Wiki/PCs/Richard Dochter.md",
-    "Wiki/PCs/Rodrigo Delmar.md",
-    "Wiki/PCs/Zara Sadabris.md",
-    "Wiki/Threats/Mundane/Private Security.md",
-    "Wiki/Threats/Mundane/Police Backup.md",
     "Wiki/Threats/Mundane/Derelicts.md",
     "Wiki/Threats/Mundane/Militia.md",
-    "Wiki/Locations/The Clinic.md",
+    "Wiki/Threats/Mundane/Police Backup.md",
+    "Wiki/Threats/Mundane/Private Security.md",
+    "Wiki/Threats/Mundane/Union Thugs.md",
+    "Wiki/Threats/Hybrids/The Beast.md",
+    "Wiki/Threats/Hybrids/The Dragon.md",
+    "Wiki/Threats/Hybrids/Cyber Soldier.md",
+    "Wiki/NPCs/Judas Churchill.md",
+    "Wiki/NPCs/Katie Smith.md",
+    "Wiki/Threats/Hybrids/Trio of Cyber Soldiers.md",
+    "Wiki/Threats/Synthetics/Drones.md",
+    "Wiki/Threats/Hybrids/Emergent.md",
+    "Wiki/NPCs/Brian Walters.md",
+    "Wiki/Fronts/Elizabeth's Agenda.md",
+    "Wiki/Threats/Hybrids/Infected Dog.md",
+    "Wiki/Fronts/Hybrid Hive Mind.md",
     "Wiki/Threats/Synthetics",
     "Wiki/Ideas",
     "Wiki/Fronts",
