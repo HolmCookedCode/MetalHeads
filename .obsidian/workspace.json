@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episodes/4 - Revelations.md",
+                "file": "Episodes/5 - Finale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Revelations"
+              "title": "5 - Finale"
             }
           }
         ],
@@ -179,22 +179,25 @@
   },
   "active": "c8076523dc8417e1",
   "lastOpenFiles": [
-    "Episodes/1 - Welcome to Cherryville.md",
-    "Episodes/2 - Homecoming.md",
+    "Wiki/Items/Key to the City.md",
+    "Episodes/5 - Finale.md",
     "Episodes/4 - Revelations.md",
     "Episodes/3 - Wonders of the Woods.md",
+    "Wiki/Threats/NeuroSynth/The Davises.md",
+    "Wiki/Threats/Hybrids/The Titan.md",
+    "Wiki/Threats/Hybrids/The Dragon.md",
+    "Wiki/Threats/Hybrids/The Beast.md",
+    "Episodes/1 - Welcome to Cherryville.md",
+    "Episodes/2 - Homecoming.md",
     "Wiki/NPCs/Frank Whig.md",
     "Wiki/Threats/Hybrids/The Old Children.md",
     "Wiki/Threats/Synthetics/Replicant.md",
     "Wiki/Threats/NeuroSynth/Black Ops.md",
-    "Wiki/Threats/NeuroSynth/The Davises.md",
     "Wiki/Threats/Mundane/Derelicts.md",
     "Wiki/Threats/Mundane/Militia.md",
     "Wiki/Threats/Mundane/Police Backup.md",
     "Wiki/Threats/Mundane/Private Security.md",
     "Wiki/Threats/Mundane/Union Thugs.md",
-    "Wiki/Threats/Hybrids/The Beast.md",
-    "Wiki/Threats/Hybrids/The Dragon.md",
     "Wiki/Threats/Hybrids/Cyber Soldier.md",
     "Wiki/NPCs/Judas Churchill.md",
     "Wiki/NPCs/Katie Smith.md",
@@ -202,9 +205,6 @@
     "Wiki/Threats/Synthetics/Drones.md",
     "Wiki/Threats/Hybrids/Emergent.md",
     "Wiki/NPCs/Brian Walters.md",
-    "Wiki/Fronts/Elizabeth's Agenda.md",
-    "Wiki/Threats/Hybrids/Infected Dog.md",
-    "Wiki/Fronts/Hybrid Hive Mind.md",
     "Wiki/Threats/Synthetics",
     "Wiki/Ideas",
     "Wiki/Fronts",
